@@ -34,7 +34,6 @@ const Slider = () => {
       </div>
       <div className="keen-slider__slide">
         <div className={classes.slider}>
-          {" "}
           <Image
             src={`${imagesUrl}31e37123-da5e-44b3-8d94-56f368872d68`}
             alt="Logo"

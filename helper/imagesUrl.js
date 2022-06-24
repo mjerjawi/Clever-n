@@ -1,1 +1,2 @@
-export const imagesUrl = 'https://wwndyrxnhutvvvfmhwso.nhost.run//v1/storage/files/'
+export const imagesUrl =
+  "https://wwndyrxnhutvvvfmhwso.nhost.run//v1/storage/files/";
