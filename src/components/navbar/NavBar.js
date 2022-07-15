@@ -36,7 +36,7 @@ const NavBar = () => {
         <MediaQuery smallerThan="md" styles={{ display: "none" }}>
           <Grid.Col md={3}>
             <div className={classes.logo}>
-              <Image src="logo3.jpg" alt="Logo" width="120" height="32" />
+              {/* <Image src="logo3.jpg" alt="Logo" width="120" height="32" /> */}
             </div>
           </Grid.Col>
         </MediaQuery>

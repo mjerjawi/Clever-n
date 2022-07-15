@@ -57,7 +57,7 @@ export default function App() {
     {
       initial: 0,
       slides: {
-        perView: 4,
+        perView: 5,
         spacing: 10,
       },
     },
